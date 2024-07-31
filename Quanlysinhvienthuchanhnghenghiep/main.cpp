@@ -16,7 +16,6 @@ private:
 public:
     void nhap();
     void xuat();
-    void dangky();
 };
 class doituong
 {
