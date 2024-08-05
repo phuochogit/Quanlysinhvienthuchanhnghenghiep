@@ -22,12 +22,15 @@ private:
 public:
     void nhap();
     void xuat();
+<<<<<<< HEAD
     void dangky();
     bool timkiemtheomaso(string);
     static int laysoluongsinhvien();
     static int laysoluonggiangvien();
     static int laysoluongdoanhnghiep();
     static doituong** laydt();
+=======
+>>>>>>> e86715d4e2ac8d1d7d4baf3e694684e1b7d8d767
 };
 class doituong
 {
