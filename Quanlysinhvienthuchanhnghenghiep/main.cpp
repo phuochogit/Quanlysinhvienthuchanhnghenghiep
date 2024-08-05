@@ -335,3 +335,7 @@ string doanhnghiep::taohotendoanhnghiep(string& masodoanhnghiep)
     }
     return hoten;
 }
+//Kết luận:
+//- Quy trình: Khi tới đợt thực hành nghề nghiệp, khoa cntt sẽ chọn danh sách sinh viên,mời giảng viên hướng dẫn,mời doanh nghiệp tham gia kỳ thực hành nghề nghiệp. Sau đó, sinh viên đăng ký giảng viên, doanh nghiệp mà mình mong muốn. Cuối cùng, tổng hợp danh sách thực hành nghề nghiệp bao gồm sinh viên đăng ký giảng viên nào, doanh nghiệp nào.
+//- Sơ đồ lớp: https://app.diagrams.net/#Hphuochogit%2FQuanlysinhvienthuchanhnghenghiep%2Fmaster%2FQuanlysinhvienthuchanhnghenghiep.drawio#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D.
+//- Sử dụng cơ chế đa xạ trong việc nhập, xuất, đăng ký.
